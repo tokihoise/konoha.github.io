@@ -1,0 +1,415 @@
+*{background-origin:border-box;}
+body{margin: 0;
+    font-family: 'Satisfy', cursive;
+
+background-image:url(https://cdn.hipwallpaper.com/i/39/97/Yui8MB.jpg );
+    background-repeat: no-repeat;
+      
+       }
+
+
+a {text-decoration:none;
+        color: white;
+    font-size: 2vw;
+        padding-left:10px;
+      }
+    
+
+
+    .navbar{ background-color:#ffab00;
+        text-align: center;
+        padding: 20px;
+        padding-bottom: -30px; }
+   
+        @media screen and (min-width:900px){
+
+            .col-1 {width: 8.33%;}
+            .col-2 {width: 16.66%;}
+            .col-3 {width: 25%;}
+            .col-4 {width: 33.33%;}
+            .col-5 {width: 41.66%;}
+            .col-6 {width: 50%;}
+            .col-7 {width: 58.33%;}
+            .col-8 {width: 66.66%;}
+            .col-9 {width: 75%;}
+            .col-10 {width: 83.33%;}
+            .col-11 {width: 91.66%;}
+            .col-12 {width: 100%}
+        }
+            @media screen and (min-width:900px){
+            .navbar{display: flex;
+            flex-direction: row;}
+                
+        
+        .menu{padding-top:50px;
+            padding-left: 20px;;
+           }
+
+           a{font-size: 18px;}
+        }
+        
+        @media screen and (max-width:899px){
+
+            a{font-size: 18px;}
+        }
+    
+    .hh{font-size: 4vw;}
+    .navbar::after{clear: both;
+    content: "";
+        display: table;}
+
+        @media screen and (max-width:600px){
+
+            .menu a{display: flex;
+                    flex-direction: column;}
+            }
+            @media screen and (max-width:600px){
+                 
+                    .ashol{margin-left:-300px;
+                        font-size: 10px;}
+            }
+                        .icon{margin-top: 200px;
+                            margin-left: 400px;
+                 }
+                
+                
+
+                
+            
+                  
+
+                  @media (min-width:900px) and (max-width:1300px){
+                      a{font-size: 12px;}
+                  
+                    }
+            
+                  
+                    @media screen and (max-width:600px){
+                        .halar{background-color: yellow;
+                         margin-bottom: 10px;
+                         color: black;
+                         border-radius:1000px;}
+
+                         .halar1{background-color: yellow;
+                            margin-bottom: 10px;
+                            color: black;
+                            border-radius:1000px;}
+
+                            .halar2{background-color: yellow;
+                                color: black;
+                                border-radius:1000px;}
+
+                            
+                        }
+
+                   .shera{text-align: center;
+                            font-size: 3.9vw;}
+
+                     p{font-size: 2.6vw;
+                        text-align: center;}       
+
+                          
+                            a:hover{background-color: white;
+                                color: black;} 
+                            @media screen and (min-width:600px){
+                                .halar{margin-left: 80px;}
+
+                                
+                            }
+                          .profile{background-color: white;}
+                                 .icon{   margin-top: -0px;}
+
+                         @media screen and (min-width:900px){
+                             .icon{margin-left:850px;}
+                             .icon1{margin-left: 200px;}
+                         }
+                         @media screen and (max-width:600px){
+                            .icon{margin-left:400px;
+                                    margin-top: -50px;}
+                            .icon1{margin-left: 130px;}
+                        }
+                         .icon{transition:transform 3s;
+                            transition-delay: 0s;}
+                            .icon1{transition:transform 4s;
+                                transition-delay: 0s;}
+
+                              .icon:hover{transform:rotate(360deg)}      .icon1:hover{transform:rotate(360deg)} 
+
+                            .shera:hover{background-color: #ffab00;
+                                                color:white;}  
+                                                .shera1:hover{background-color: yellow;
+                                                    color:black;}
+
+                                                @media screen and (max-width:600px){
+                                                    .shera{font-size: 20px;}
+                    
+                                                    .shera1{font-weight: bolder;}
+                                                }
+        
+                                    .hoo{font-size:5vw;
+                                            text-align: center;
+                                            transition-property: font-size;
+                                            transition-duration: 2s;
+                                            transition-delay: 0s;
+                                      }
+                                      .hoo:hover{font-size: 6vw;}
+                                    
+                                      .hashi{border-radius: 3500px;} 
+                                      .tobi{border-radius: 3500px;} 
+                                      .saru{border-radius: 3500px;}
+                                      .mina{border-radius:3500px ;}
+                                      .tsun{border-radius: 3500px;}
+                                      .kaka{border-radius: 3500px;}
+                                      .naru{border-radius: 3500px;}
+                                    
+                                      .rama{background-color: red;} 
+                                      .rama1{background-color: blue;}
+                                      .rama2{background-color: gray;}
+                                      .rama3{background-color: yellow;}
+                                      .rama4{background-color: chartreuse;}
+                                      .rama5{background-color:#00b3b3 ;}
+                                      .rama6{background-color: orange;}
+                                      
+                                      .lol{color: white;}
+                                      .lol:hover{background-color: white;
+                                                    color: black;}
+                                                    .lol1{color:black;}
+                                                    .lol1:hover{background-color:black;
+                                                        color:white;}
+
+
+
+
+
+
+
+
+                                                    
+                                    @media screen and (min-width:800px)
+                                    {   .rama{display: flex;
+                                                flex-direction: row;}
+                                                .rama1{display: flex;
+                                                    flex-direction: row;}
+                                                    .rama2{display: flex;
+                                                        flex-direction: row;}
+                                                        .rama3{display: flex;
+                                                            flex-direction: row;}
+                                                        
+                                                            .rama4{display: flex;
+                                                                flex-direction: row;} 
+
+                                                                .rama5{display: flex;
+                                                                    flex-direction: row;} 
+    
+                                                                    .rama6{display: flex;
+                                                                        flex-direction: row;} 
+        
+
+                                                            }
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            @media screen and (max-width:800px){
+                                                .hashi{height:110px;
+                                                        width: 110px;}
+                                                    .rama{text-align: center;}
+                                                    
+                                                    .tobi{height:110px;
+                                                        width: 110px;}
+                                                    .rama1{text-align: center;}
+                                                    
+                                                     
+                                                    .saru{height:110px;
+                                                        width: 110px;}
+                                                    .rama2{text-align: center;}
+                                                        
+                                                    .mina{height:110px;
+                                                        width: 110px;}
+                                                    .rama3{text-align: center;}
+                                                        
+                                                    .tsun{height:110px;
+                                                        width: 110px;}
+                                                    .rama4{text-align: center;}
+                                                
+                                                    .kaka{height:110px;
+                                                        width: 110px;}
+                                                    .rama5{text-align: center;}
+                                                
+                                                
+                                                    .naru{height:110px;
+                                                        width: 110px;}
+                                                    .rama6{text-align: center;}
+                                                }
+                  
+.level{background-color:#666633;margin:10px 10px 10px 10px;border-radius: 10px; padding-bottom: 80px;
+        transition: 0.3s;}
+        .level:hover{box-shadow: 0px 8px 5px 10px black;}
+.lkmu{color:white;}
+.lrd{color: white;
+        text-align:center;}
+
+        .kak{border-radius: 50000px; 
+            margin:0 auto;}
+
+
+            .lava{display: flex; flex-direction: column;}
+
+.card::after{clear: both;display: table;content:'';}
+.level::after{clear: both;display: table;content:'';}
+
+.arekta{
+padding-left: 45px;
+height: 500px;
+}
+
+.arekta li{
+list-style: none;
+
+color:white;
+font-weight: bold;
+text-transform: uppercase;
+position: relative;
+font-size: 20px;
+margin: 80px 0px;}
+
+
+.arekta li::before{
+    content: '';
+    position:absolute;
+     background-color: white; 
+    width: 90%;
+    height: 15px;
+    top: calc(100% + 5px); 
+    border-radius: 1000px;
+    left: 0; }
+
+    .arekta li::after{
+        content: '';
+        position:absolute;
+        left: 0;
+        width: 0;
+        height: 15px;
+        top: calc(100% + 5px); 
+        border-radius: 1000px; 
+        background-color: orange;
+        animation-duration: 2s;
+        animation-delay: 0.5s;
+        animation-fill-mode: forwards;
+            animation-iteration-count: infinite;
+        }
+
+        .arekta li.hokage::after{
+
+            animation-name: hokage;
+
+        }
+
+    @keyframes hokage {
+        to{
+            width:80%;
+            background-color:green;}
+    }
+
+    .arekta li.jonin::after{
+
+        animation-name: jonin;
+
+    }
+
+@keyframes jonin {
+    to{
+        width:70%;
+        background-color:greenyellow;}
+}
+.arekta li.chunin::after{
+
+    animation-name:chunin;
+
+}
+
+@keyframes chunin {
+to{
+    width:55%;
+    background-color:yellow;}
+}
+
+.arekta li.genin::after{
+
+    animation-name: genin;
+
+}
+
+@keyframes genin {
+to{
+    width:40%;
+    background-color:red;}
+}
+
+.level1{background-color:#666633;margin:10px 10px 10px 10px;border-radius: 10px;  
+    transition: 0.3s;}
+    .level1:hover{box-shadow: 0px 8px 5px 10px black;}
+
+    .card1::after{clear: both;display: table;content:'';}
+
+        
+    @media screen and (min-width:900px){
+
+        .card{float: left; margin-right: 200px;}
+        .card1{float: left;}
+    }
+
+    .card1::after{clear: both;display: table;content:'';}   .level1::after{clear: both;display: table;content:'';}
+
+  .white11{color:white;font-size: 7px;}
+
+  .waria{color:white}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .facebook{border: none;
+    padding: 20px;
+    color:white;
+    background-color:black;}
+    .facebook:hover{color:whitesmoke;
+    background-color:cyan;
+    border-radius:600% ;}
+    
+    .za{width:90px;
+        transition-property: width;
+            transition-duration: 1s;
+        transition-delay: 0s;
+        transition:transform 2s;}
+    .za:hover{width:150px;
+        height:150px ;
+        transform:rotate(360deg)}
+        .socialmedia{
+            text-align: center;
+          padding: 50px 20px;
+        }   
